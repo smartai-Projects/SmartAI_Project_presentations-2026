@@ -4,7 +4,7 @@ This repository is used for student presentation submissions.
 
 ## Instructions
 - Go to your assigned folder (student1, student2, etc.)
-- Upload your presentation file (PPTX or PDF)
+- push or Upload your presentation file (PPTX or PDF, and python codes)
 - Click "Commit changes"
 
 ## Rules
